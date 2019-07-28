@@ -1,8 +1,10 @@
 <template>
     <div class="navigation">
         <img src="../assets/logo.png"/>
-        <h1>front end training</h1>
-        <router-link to="/firstCourse">first course</router-link>
+        <h1>前端系列课程培训</h1>
+        <router-link to="/firstCourse">课程一实战:tab组件抽取及切换</router-link>
+        <h2>xieyang@wisdomgarden.com</h2>
+
     </div>
 </template>
 
